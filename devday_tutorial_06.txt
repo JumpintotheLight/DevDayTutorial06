@@ -1,0 +1,49 @@
+https://developer.vuforia.com/
+
+Download for Unity
+
+Create License Key
+
+Please copy the license key below into your app
+AV97KW7/////AAAAGQvw9eli3UE7p7NQWkz6SARvI9jcZ5kVc16bn0q57CGxcXmJrTP0NJI9bZJDM5qO3CmLHqmscgCv6OvWTVQje7GOTZjmd7hwZPVWeiI1qVLVW4EVRWv3WS9PaFNSEp3mGS7RS79+pRndjKIUgeZh0VPt7sNc4Cl5pTNknfJ41ZL6B81st213HgA/HinqTNZ75et1z4wsKWCTlgxpFgdgYTuN6ARRLNkSS4+JmgopP6Ugk/SmASEGuV3uLmo/v/LZTBo6nPDKVdtQbxNALsA+k0EdkvJVxJ7fq6V2rKEu/c9e94sjlUivsgvojgg83s9HcePNLanBQ3m/HpIQZ22Y12LK/aNEGMNdWk/5sKJTiWOd
+
+
+create target_images database
+
+single image
+
+Select image file
+
+width units 50 (important for our scene)
+
+Look at the image rating
+
+View feature points
+
+Download Database
+
+Import SDK into Unity
+
+Import image target package into 
+
+Drag ARCamera into Scene and set to 0, 0, 0
+
+Copy paste App License Key into ARCamera
+
+Database Load Behavior
+->check Load target images
+->check Activate
+
+
+
+Make 3D objects child of Image Target
+
+
+Import the Vuforia AR-VR project
+
+Replace Database on ImageTargetStones with JITL Logo
+
+
+
+
+https://developer.vuforia.com/downloads/samples
